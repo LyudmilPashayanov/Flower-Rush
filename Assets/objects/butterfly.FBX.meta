@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: cc9341cea491b6d4b8035c4134996e7e
+timeCreated: 1512829553
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: body
+    100002: //RootNode
+    100004: Circle002
+    100006: Circle003
+    100008: Circle004
+    100010: Circle005
+    100012: Circle006
+    100014: Circle007
+    100016: Circle008
+    100018: Circle018
+    100020: Circle019
+    100022: Circle020
+    100024: Circle021
+    100026: Circle022
+    100028: Circle023
+    100030: Circle024
+    100032: Circle025
+    100034: Circle026
+    100036: Circle027
+    100038: Circle028
+    100040: Circle029
+    100042: Circle030
+    100044: Circle031
+    100046: Circle032
+    100048: Circle033
+    100050: Circle034
+    100052: Circle035
+    100054: Circle036
+    100056: eye left
+    100058: eye right
+    100060: left wing
+    100062: Line004
+    100064: Line005
+    100066: Line006
+    100068: Line007
+    100070: Line009
+    100072: Line010
+    100074: right wing
+    400000: body
+    400002: //RootNode
+    400004: Circle002
+    400006: Circle003
+    400008: Circle004
+    400010: Circle005
+    400012: Circle006
+    400014: Circle007
+    400016: Circle008
+    400018: Circle018
+    400020: Circle019
+    400022: Circle020
+    400024: Circle021
+    400026: Circle022
+    400028: Circle023
+    400030: Circle024
+    400032: Circle025
+    400034: Circle026
+    400036: Circle027
+    400038: Circle028
+    400040: Circle029
+    400042: Circle030
+    400044: Circle031
+    400046: Circle032
+    400048: Circle033
+    400050: Circle034
+    400052: Circle035
+    400054: Circle036
+    400056: eye left
+    400058: eye right
+    400060: left wing
+    400062: Line004
+    400064: Line005
+    400066: Line006
+    400068: Line007
+    400070: Line009
+    400072: Line010
+    400074: right wing
+    2300000: body
+    2300002: Circle002
+    2300004: Circle003
+    2300006: Circle004
+    2300008: Circle005
+    2300010: Circle006
+    2300012: Circle007
+    2300014: Circle008
+    2300016: Circle018
+    2300018: Circle019
+    2300020: Circle020
+    2300022: Circle021
+    2300024: Circle022
+    2300026: Circle023
+    2300028: Circle024
+    2300030: Circle025
+    2300032: Circle026
+    2300034: Circle027
+    2300036: Circle028
+    2300038: Circle029
+    2300040: Circle030
+    2300042: Circle031
+    2300044: Circle032
+    2300046: Circle033
+    2300048: Circle034
+    2300050: Circle035
+    2300052: Circle036
+    2300054: eye left
+    2300056: eye right
+    2300058: left wing
+    2300060: Line004
+    2300062: Line005
+    2300064: Line006
+    2300066: Line007
+    2300068: Line009
+    2300070: Line010
+    2300072: right wing
+    3300000: body
+    3300002: Circle002
+    3300004: Circle003
+    3300006: Circle004
+    3300008: Circle005
+    3300010: Circle006
+    3300012: Circle007
+    3300014: Circle008
+    3300016: Circle018
+    3300018: Circle019
+    3300020: Circle020
+    3300022: Circle021
+    3300024: Circle022
+    3300026: Circle023
+    3300028: Circle024
+    3300030: Circle025
+    3300032: Circle026
+    3300034: Circle027
+    3300036: Circle028
+    3300038: Circle029
+    3300040: Circle030
+    3300042: Circle031
+    3300044: Circle032
+    3300046: Circle033
+    3300048: Circle034
+    3300050: Circle035
+    3300052: Circle036
+    3300054: eye left
+    3300056: eye right
+    3300058: left wing
+    3300060: Line004
+    3300062: Line005
+    3300064: Line006
+    3300066: Line007
+    3300068: Line009
+    3300070: Line010
+    3300072: right wing
+    4300000: right wing
+    4300002: Circle004
+    4300004: Circle003
+    4300006: Circle002
+    4300008: Line009
+    4300010: Line010
+    4300012: Circle025
+    4300014: Circle035
+    4300016: Circle033
+    4300018: Circle034
+    4300020: Circle021
+    4300022: Circle022
+    4300024: Circle023
+    4300026: Circle024
+    4300028: Circle026
+    4300030: Circle036
+    4300032: body
+    4300034: eye right
+    4300036: eye left
+    4300038: Line004
+    4300040: Line005
+    4300042: left wing
+    4300044: Circle008
+    4300046: Circle007
+    4300048: Circle006
+    4300050: Circle005
+    4300052: Line006
+    4300054: Line007
+    4300056: Circle018
+    4300058: Circle019
+    4300060: Circle020
+    4300062: Circle027
+    4300064: Circle028
+    4300066: Circle029
+    4300068: Circle030
+    4300070: Circle031
+    4300072: Circle032
+    6400000: body
+    6400002: Circle002
+    6400004: Circle003
+    6400006: Circle004
+    6400008: Circle005
+    6400010: Circle006
+    6400012: Circle007
+    6400014: Circle008
+    6400016: Circle018
+    6400018: Circle019
+    6400020: Circle020
+    6400022: Circle021
+    6400024: Circle022
+    6400026: Circle023
+    6400028: Circle024
+    6400030: Circle025
+    6400032: Circle026
+    6400034: Circle027
+    6400036: Circle028
+    6400038: Circle029
+    6400040: Circle030
+    6400042: Circle031
+    6400044: Circle032
+    6400046: Circle033
+    6400048: Circle034
+    6400050: Circle035
+    6400052: Circle036
+    6400054: eye left
+    6400056: eye right
+    6400058: left wing
+    6400060: Line004
+    6400062: Line005
+    6400064: Line006
+    6400066: Line007
+    6400068: Line009
+    6400070: Line010
+    6400072: right wing
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
